@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @knox-dude, aka andrew knox.
-- 👀 I’m interested in mobile app development and low-level development.
-- 🌱 I’m currently learning Rust and Swift, and have a solid foundation in Python and Java.
-- 💞️ I’m looking to collaborate on ... anything! I would love to meet people in the community and am open to all.
+- 👀 I’m interested in Python and Rust development.
+- 🌱 I’m currently learning Rust and I have a solid foundation in Python and Java.
+- 💞️ I’m looking to collaborate on ... anything! I would love to meet people in the community and am open to collab on anything.
 - 📫 How to reach me ... email: andrew.knox@live.com
 
 <!---
