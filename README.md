@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knox-dude, aka andrew knox.
-- 👀 I’m interested in full stack Web development with Javascript, Python, and Node.
-- 🌱 I’m currently learning Javscript and I have a solid foundation in Python and Java.
+- 👀 I’m interested in MCP development and how I can leverage AI to... keep a CS job into 2050, lol.
+- 🌱 I’m currently a developer at a logistics company using C#/.net and some python.
 - 📫 How to reach me ... email: andrew.knox.r@gmail.com
 
 <!---
