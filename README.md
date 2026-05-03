@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @knox-dude, aka andrew knox.
-- 🌱 I’m currently a developer at a logistics company using C#/.net and some python.
+- 🌱 I’m currently a developer at a logistics company using .NET, Javascript, and some Python.
 
 <!---
 knox-dude/knox-dude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
